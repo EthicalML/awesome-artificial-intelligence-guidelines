@@ -14,13 +14,8 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 | | | |
 |-|-|-|
-|[🔍 Explaining predictions & models](#explaining-black-box-models-and-datasets) |[🔏 Privacy preserving ML](#privacy-preserving-machine-learning) | [📜 Model & data versioning](#model-and-data-versioning)|
-|[🏁 Model Orchestration](#model-deployment-and-orchestration-frameworks)|[⚔ Adversarial Robustness](#adversarial-robustness-libraries)|[🤖 Neural Architecture Search](#neural-architecture-search)|
-| [📓 Reproducible Notebooks](#data-science-notebook-frameworks) | [📊 Visualisation frameworks](#industrial-strength-visualisation-libraries) | [🔠 Industry-strength NLP](#industrial-strength-nlp) |
-| [🧵 Data pipelines & ETL](#data-pipeline-etl-frameworks) | [🏷️ Data Labelling](#data-labelling-tools-and-frameworks) |[🗞️ Data storage](#data-storage-optimisation) |
-| [📡 Functions as a service](#function-as-a-service-frameworks)| [🗺️ Computation distribution](#computation-load-distribution-frameworks) | [📥 Model serialisation](#model-serialisation-formats) |
-| [🎁 Compiler optimisation](#compiler-optimisation-frameworks)| [💸 Data Stream Processing](#data-streaming-processing) | [🌀 Feature engineering](#feature-engineering-automation)
-| [💰 Commercial Platforms](#commercial-platforms)
+|[🔍 Ethics Principles & Guidelines](#explaining-black-box-models-and-datasets) |[🔏 National AI Strategies](#privacy-preserving-machine-learning) | [📜 Industry standard initiatives](#model-and-data-versioning)|
+|[🏁 Courses Ethics & Philosophy for AI](#model-deployment-and-orchestration-frameworks)|[⚔ AI Policy](#adversarial-robustness-libraries)|[🤖 Neural Architecture Search](#neural-architecture-search)|
 
 
 ## Want to receive recurrent updates on this repo and other advancements?
