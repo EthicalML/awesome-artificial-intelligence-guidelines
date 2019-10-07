@@ -15,7 +15,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 | | | |
 |-|-|-|
 |[🔍 Ethics Principles & Guidelines](#explaining-black-box-models-and-datasets) |[🔏 National AI Strategies](#privacy-preserving-machine-learning) | [📜 Industry standard initiatives](#model-and-data-versioning)|
-|[🏁 Courses Ethics & Philosophy for AI](#model-deployment-and-orchestration-frameworks)|[⚔ AI Policy](#adversarial-robustness-libraries)|[🤖 Neural Architecture Search](#neural-architecture-search)|
+|[🏁 Courses Ethics & Philosophy for AI](#model-deployment-and-orchestration-frameworks)|[⚔ AI Policy](#adversarial-robustness-libraries)|[🤖 Research papers in AI ethics & guidelines](#neural-architecture-search)|
 
 
 ## Want to receive recurrent updates on this repo and other advancements?
