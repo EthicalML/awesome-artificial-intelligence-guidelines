@@ -57,6 +57,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Markula Center's Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/) - A practical and comprehensible tooklikt with seven components to aid practitioners reflect, and judge the moral grounds in which they are operating.
 * [San Francisco City's Ethics & Algorithms Toolkit](https://ethicstoolkit.ai/) - A risk management framework for government leaderes and staff who work with algorithms, providing a two part assessment process including an algorithmic assessment process, and a process to address the risks.
 * [UK Government's Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which provides a set of questions that can be asked by practitioners in the public sector, which address each of the principles in their [Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework).
+* [World Economic Forum's Guidelines for Procurement](https://www.weforum.org/press/2019/09/uk-government-first-to-pilot-ai-procurement-guidelines-co-designed-with-world-economic-forum/) - The WEF has put together a set of guidelines for governments to be able to safely and reliably procure machine learning related systems, which has been trialed with the UK government.
 
 ## Interactive and practical Tools 
 
