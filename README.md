@@ -54,7 +54,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [UK Government's Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which provides a set of questions that can be asked by practitioners in the public sector, which address each of the principles in their [Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework).
 * [World Economic Forum's Guidelines for Procurement](https://www.weforum.org/press/2019/09/uk-government-first-to-pilot-ai-procurement-guidelines-co-designed-with-world-economic-forum/) - The WEF has put together a set of guidelines for governments to be able to safely and reliably procure machine learning related systems, which has been trialed with the UK government.
 
-## Interactive and practical Tools 
+## Interactive & Practical Tools 
 
 * [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) - The Bias Report is powered by Aequitas, an open-source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools. 
 * [eXplainability Toolbox](https://ethical.institute/xai.html) - The Institute for Ethical AI & Machine Learning proposal for an extended version of the traditional data science process which focuses on algorithmic bias and explainability, to ensure a baseline of risks around undesired biases can be mitigated.
