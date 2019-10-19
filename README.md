@@ -66,6 +66,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 ## Industry standardisation initiatives
 
 * [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/) - IEEE Approved Standards Projects specifically focused on the Ethically Aligned Design principles, and includes 14 (P700X) standards which cover topics from data collection to privacy, to algorithmic bias and beyond.
+* [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/) - The ISO's initiative for Artificial Intelligence standards, which include a large set of sub-standards ranging across Big Data, AI Terminology, Machine Learning frameworks, etc.
 
 
 ## Relevant Newsletters
@@ -73,4 +74,20 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Import AI](https://jack-clark.net/) - A newsletter curated by OpenAI's Jack Clark which curates the most resent and relevant AI research, as well as relevant societal issues that intersect with technical AI research.
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
+
+
+<!--
+# Regulation and government initiatives by nation
+
+## European Union
+
+* [
+
+## United States of America
+
+* [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - California's data protection act
+* [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
+
+    -->
+
 
