@@ -8,7 +8,7 @@
 
 | | |
 |-|-|
-| <h1>Awesome Artificial Intelligence Guidelines</h1>| ![](images/bosstown.gif)<br> (AKA how to avoid this) |
+| <h1>The Awesome Artificial Intelligence Guidelines List</h1>| ![](images/bosstown.gif)<br> (AKA High level resources for writing AI responsibly) |
 
 
 This repository aims to map the ecosystem of guidelines, principles, code of ethics, regulation and standards being put together around artificial intelligence. 
