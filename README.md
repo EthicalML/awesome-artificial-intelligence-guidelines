@@ -78,16 +78,27 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
 
-<!--
 # Regulation and government initiatives by nation
 
 ## European Union
 
-* [
+* [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
+* [GDPR.EU Guide](A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
 
 ## United States of America
 
-* [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - California's data protection act
+* [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - Legal text for California's consumer privacy act
+* [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
+* [Fair Credit Reporting Act 2018](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/fair-credit-reporting-act) - The Fair Reporing Act is a federal law that regulates the collection of consumers' credit information and access to their credit reports.
+* [Gramm-Leach-Billey Act (for financial institutions)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act) - The Graham-Leach-Billey Act requires financial institutions (companies that offer consumers financial projects or services like loans, financial, or investment advice, or insurance) to explain their information-sharing practices to their customers and to safeguard sensitive data.
+* [Health Insurance Portability and Accountability Act of 1996](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) - The HIPAA required the secretary of the US department of health and human services (HHS) to develop regulations protecting the privacy and security of certain health information, which then HHS published what is known as the HIPAA [Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html), and the HIPAA [Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/index.html).
 * [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
+* [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
+* [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
+
+
+## United Kingdom
+
+
 
 
