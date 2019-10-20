@@ -59,8 +59,10 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 ## Interactive & Practical Tools 
 
 * [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) - The Bias Report is powered by Aequitas, an open-source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools. 
+* [Awesome Machine Learning Production List](https://github.com/ethicalml/awesome-production-machine-learning) - A list of tools and frameworks that support the design, development and operation of production machine learning systems, currently maintained by The Institute for Ethical AI & Machine Learning.
 * [eXplainability Toolbox](https://ethical.institute/xai.html) - The Institute for Ethical AI & Machine Learning proposal for an extended version of the traditional data science process which focuses on algorithmic bias and explainability, to ensure a baseline of risks around undesired biases can be mitigated.
 * [IBM's AI Explainability 360 Open Source Toolkt](http://aix360.mybluemix.net/) - This is IBM's toolkit that includes large number of examples, research papers and demos implementing several algorithms that provide insights on fairness in machine learning systems.
+* [Linux Foundation AI Landscape](https://landscape.lfai.foundation/) - The official list of tools in the AI landscape curated by the Linux Foundation, which contains well maintained and used tools and frameworks. 
 
 
 ## Industry standardisation initiatives
@@ -87,7 +89,5 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 * [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - California's data protection act
 * [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
-
-    -->
 
 
