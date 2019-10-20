@@ -14,9 +14,9 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 | | | |
 |-|-|-|
-|[🔍 Ethics Principles & Guidelines](#explaining-black-box-models-and-datasets) |[🔏 National AI Strategies](#privacy-preserving-machine-learning) | [📜 Industry standard initiatives](#model-and-data-versioning)|
-|[🏁 Courses Ethics & Philosophy for AI](#model-deployment-and-orchestration-frameworks)|[⚔ AI Policy](#adversarial-robustness-libraries)|[🤖 Research papers in AI ethics & guidelines](#neural-architecture-search)|
-
+|[🔍 High Level Frameworks & Principles](#high-level-frameworks-and-principles) |[🔏 Processes & Checklists](#processes-and-checklists) | [🔨 Interactive & Practical Tools](#interactive-and-practical-tools)|
+|[📜 Industry standards initiatives](#industry-standards-initiatives)|[📚 Online Courses](#online-courses-and-learning-resources)|[🤖 Research and Industry Newsletters](#research-and-industry-newsletters)|
+|[⚔ Regulation and Government Initiatives by Nation](#regulation-and-government-initiatives-by-nation)|||
 
 ## Want to receive recurrent updates on this repo and other advancements?
 
@@ -34,7 +34,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 # Main Content
 
-## High Level Frameworks & Principles
+## High Level Frameworks and Principles
 
 * [AI & Machine Learning 8 principles for Responsible ML](https://ethical.institute/principles.html) - The Institute for Ethical AI & Machine Learning has put together 8 principles for responsible machine learning that are to be adopted by individuals and delivery teams designing, building and operating machine learning systems.
 * [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) - This is the code of ethics that has been put together in 1992 by the Association for Computer Machinery and updated in 2018. The Code is designed to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way. Additionally, the Code serves as a basis for remediation when violations occur. The Code includes principles formulated as statements of responsibility, based on the understanding that the public good is always the primary consideration.
@@ -45,7 +45,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Singapore Data Protection Govt Commission's AI Governance Principles](https://www.pdpc.gov.sg/Resources/Model-AI-Gov) - The singapore government's Personal Data Protection Commission has put together a set of guiding principles towards data protection and human involvement in automated systems, and comes with a report that breaks down the [guiding principles and motivations](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Model-AI-Framework---First-Edition.pdf).
 * [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework for data ethics.
 
-## Processes & Checklists
+## Processes and Checklists
 
 * [AI RFX Procurement Framework](https://ethical.institute/rfx.html) - A procurement framework for evaluating the maturity of machine learning systems put together by cross functional teams of academics, industry practitioners and technical individuals at The Institute for Ethical AI & Machine Learning to empower industry practitioners looking to procure machine learning suppliers.
 * [Ethical OS Tooklkit](https://ethicalos.org/) - A tooklit that dives into 8 risk zones to assess the potential challenges that a technology team may face when, together with 14 scenarios to provide examples, and 7 future-proofing strategies to help take ethical action.
@@ -56,7 +56,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [UK Government's Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which provides a set of questions that can be asked by practitioners in the public sector, which address each of the principles in their [Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework).
 * [World Economic Forum's Guidelines for Procurement](https://www.weforum.org/press/2019/09/uk-government-first-to-pilot-ai-procurement-guidelines-co-designed-with-world-economic-forum/) - The WEF has put together a set of guidelines for governments to be able to safely and reliably procure machine learning related systems, which has been trialed with the UK government.
 
-## Interactive & Practical Tools 
+## Interactive and Practical Tools
 
 * [Aequitas' Bias & Fairness Audit Toolkit](http://aequitas.dssg.io/) - The Bias Report is powered by Aequitas, an open-source bias audit toolkit for machine learning developers, analysts, and policymakers to audit machine learning models for discrimination and bias, and make informed and equitable decisions around developing and deploying predictive risk-assessment tools. 
 * [Awesome Machine Learning Production List](https://github.com/ethicalml/awesome-production-machine-learning) - A list of tools and frameworks that support the design, development and operation of production machine learning systems, currently maintained by The Institute for Ethical AI & Machine Learning.
@@ -65,21 +65,23 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Linux Foundation AI Landscape](https://landscape.lfai.foundation/) - The official list of tools in the AI landscape curated by the Linux Foundation, which contains well maintained and used tools and frameworks. 
 
 
-## Industry standardisation initiatives
+## Industry standards initiatives
 
 * [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/) - IEEE Approved Standards Projects specifically focused on the Ethically Aligned Design principles, and includes 14 (P700X) standards which cover topics from data collection to privacy, to algorithmic bias and beyond.
 * [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/) - The ISO's initiative for Artificial Intelligence standards, which include a large set of sub-standards ranging across Big Data, AI Terminology, Machine Learning frameworks, etc.
 
+## Online Courses and Learning Resources
 
-## Relevant Newsletters
+* [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
+
+## 🤖 Research and Industry Newsletters
 
 * [Import AI](https://jack-clark.net/) - A newsletter curated by OpenAI's Jack Clark which curates the most resent and relevant AI research, as well as relevant societal issues that intersect with technical AI research.
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
 
-# Regulation and government initiatives by nation
-
+# Regulation and Government Initiatives by Nation
 
 ## China
 
