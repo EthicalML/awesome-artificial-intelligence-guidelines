@@ -5,13 +5,22 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/)
 
-<h1>Awesome Artificial Intelligence Guidelines</h1>
 
-| | |
-|-|-|
-| This repository aims to map the ecosystem of guidelines, principles, code of ethics, regulation and standards being put together around artificial intelligence. <br><br>If you know of guidelines that are not here please open an issue or submit a PR to help us ensure the responsible development, design and operation of machine learning systems around the globe. | ![](images/bosstown.gif)<br> (AKA Writing AI Responsibly) |
+<table>
+<tr>
+<td>
+<h1>Awesome AI Guidelines List</h1>
+</td>
+<td>
+![](images/bosstown.gif)<br> (AKA Writing AI Responsibly) 
+</td>
+</td>
+</table>
 
 
+This repository aims to map the ecosystem of guidelines, principles, code of ethics, regulation and standards being put together around artificial intelligence. 
+
+If you know of guidelines that are not here please open an issue or submit a PR to help us ensure the responsible development, design and operation of machine learning systems around the globe.
 
 ## Quick links to sections in this page
 
