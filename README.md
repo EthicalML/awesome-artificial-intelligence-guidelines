@@ -97,7 +97,17 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 
 
+## Singapore
+
+* [Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - The Personal Data Protection Act 2012 (the "Act") sets out the law on data protection in Singapore. Apart from establishing a general data protection regime, the Act also regulates telemarketing practices.
+* [Protection from Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625) - An act to prevent the electronic communication in singapore of false statements of fact, to suppres support for and counteract the effects of such communication, to safeguard against the use of online accounts for such communication and for information manupulation, to enable measures to be taken to enhance transparency of online political advertisements and for related matters.
+
+
 ## United Kingdom
+
+* [UK Data Protection Act of 2018](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) - The DPA 2018 enacts the GDPR into UK Law, however in doing so has included various "derogations" as permitted by the GDPR, resulting in some key differenced (which although small are not of insignificance impact and may have a greater impact after Brexit).
+* [The Information Commisioner's Office guide to Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection/) - This guide is for data protection officers and others who have day-to-day responsibility for data protection. It is aimed at small and medium-sized organisations, but it may be useful for larger organisations too.
+
 
 
 
