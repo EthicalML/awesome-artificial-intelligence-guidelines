@@ -80,10 +80,22 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 # Regulation and government initiatives by nation
 
+
+## China
+
+
+
 ## European Union
 
 * [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
 * [GDPR.EU Guide](A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
+
+
+## Singapore
+
+* [Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - The Personal Data Protection Act 2012 (the "Act") sets out the law on data protection in Singapore. Apart from establishing a general data protection regime, the Act also regulates telemarketing practices.
+* [Protection from Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625) - An act to prevent the electronic communication in singapore of false statements of fact, to suppres support for and counteract the effects of such communication, to safeguard against the use of online accounts for such communication and for information manupulation, to enable measures to be taken to enhance transparency of online political advertisements and for related matters.
+
 
 ## United States of America
 
@@ -95,12 +107,6 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 * [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
-
-
-## Singapore
-
-* [Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - The Personal Data Protection Act 2012 (the "Act") sets out the law on data protection in Singapore. Apart from establishing a general data protection regime, the Act also regulates telemarketing practices.
-* [Protection from Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625) - An act to prevent the electronic communication in singapore of false statements of fact, to suppres support for and counteract the effects of such communication, to safeguard against the use of online accounts for such communication and for information manupulation, to enable measures to be taken to enhance transparency of online political advertisements and for related matters.
 
 
 ## United Kingdom
