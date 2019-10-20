@@ -8,11 +8,11 @@
 
 <table>
 <tr>
-<td>
-<h1>Awesome AI Guidelines List</h1>
+<td width="60%">
+<h1>Awesome AI Guidelines</h1>
 </td>
 <td>
-![](images/bosstown.gif)<br> (AKA Writing AI Responsibly) 
+<img src="images/bosstown.gif"> <br> (AKA Writing AI Responsibly) 
 </td>
 </td>
 </table>
