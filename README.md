@@ -31,7 +31,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 |-|-|-|
 |[🔍 High Level Frameworks & Principles](#high-level-frameworks-and-principles) |[🔏 Processes & Checklists](#processes-and-checklists) | [🔨 Interactive & Practical Tools](#interactive-and-practical-tools)|
 |[📜 Industry standards initiatives](#industry-standards-initiatives)|[📚 Online Courses](#online-courses-and-learning-resources)|[🤖 Research and Industry Newsletters](#research-and-industry-newsletters)|
-|[⚔ Regulation and Government Initiatives by Nation](#regulation-and-government-initiatives)|||
+|[⚔ Regulation and Policy](#regulation-and-policy)|||
 
 ## Other relevant resources
 
@@ -97,7 +97,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
 
-## Regulation and Government Initiatives
+## Regulation and Policy
 
 ### China
 
