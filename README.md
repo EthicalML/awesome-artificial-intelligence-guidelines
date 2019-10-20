@@ -74,7 +74,7 @@ This repository aims to map all the guidelines, principles, code of ethics, regu
 
 * [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
 
-## 🤖 Research and Industry Newsletters
+## Research and Industry Newsletters
 
 * [Import AI](https://jack-clark.net/) - A newsletter curated by OpenAI's Jack Clark which curates the most resent and relevant AI research, as well as relevant societal issues that intersect with technical AI research.
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
