@@ -6,8 +6,8 @@
 [![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/)
 
 
-<table style="border:none">
-<tr style="border:none">
+<table>
+<tr>
 <td width="60%">
 <h1>Awesome AI Guidelines</h1>
 </td>
