@@ -17,10 +17,13 @@
 </td>
 </table>
 
+## About this repo
 
-This repository aims to map the ecosystem of guidelines, principles, code of ethics, regulation and standards being put together around artificial intelligence. 
+As AI systems become more prevalent in society, we face bigger and tougher societal challenges. Given many of these challeges have not been faced before, practitioners will face scenarios that will require dealing with hard ethical and societal questions.
 
-If you know of guidelines that are not here please open an issue or submit a PR to help us ensure the responsible development, design and operation of machine learning systems around the globe.
+There has been a large amount of content published which attempts to address these issues through “Principles”, “Ethics Frameworks”, “Checklists” and beyond. However navigating the broad number of resources is not easy. 
+
+This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.
 
 ## Quick links to sections in this page
 
