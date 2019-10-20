@@ -31,7 +31,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 |-|-|-|
 |[🔍 High Level Frameworks & Principles](#high-level-frameworks-and-principles) |[🔏 Processes & Checklists](#processes-and-checklists) | [🔨 Interactive & Practical Tools](#interactive-and-practical-tools)|
 |[📜 Industry standards initiatives](#industry-standards-initiatives)|[📚 Online Courses](#online-courses-and-learning-resources)|[🤖 Research and Industry Newsletters](#research-and-industry-newsletters)|
-|[⚔ Regulation and Government Initiatives by Nation](#regulation-and-government-initiatives-by-nation)|||
+|[⚔ Regulation and Government Initiatives by Nation](#regulation-and-government-initiatives)|||
 
 ## Other relevant resources
 
@@ -46,6 +46,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
   </tr>
 </table>
 
+# Roadmap
 
 # Main Content
 
@@ -96,9 +97,9 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
 
-# Regulation and Government Initiatives by Nation
+## Regulation and Government Initiatives
 
-## China
+### China
 
 * [China Internet Security Law](https://en.wikipedia.org/wiki/China_Internet_Security_Law) - China's law which enacted to increase cybersecurity and national security, safeguard cyberspace sovereighnty and public interest, protect the legitimate rights and interests of citizens, legal persons and other organisations, and promote healthy economic and social development (and was argued by the chinese ministry for industry and information that this law justified the means of pursuing the "Going Out" strategy China has persistend on ever since 1999). [KPMG's summary of the Cybersecurity Law](https://assets.kpmg/content/dam/kpmg/cn/pdf/en/2017/02/overview-of-cybersecurity-law.pdf). Center for strategic & international studies [overview of China's new Data Privacy law](https://www.csis.org/analysis/new-china-data-privacy-standard-looks-more-far-reaching-gdpr)
 * [China's Personal Information Security Specification (Translation)](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/translation-chinas-personal-information-security-specification/) - The Chinese Government's first major digital privacy rules which took effect in May 2018, which lays out granular guidelines for conscent and how personal data should be collected, used and shared. Center for strategic & international studies [overview of the specification](https://www.csis.org/analysis/chinas-emerging-data-privacy-system-and-gdpr) 
@@ -107,19 +108,19 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Laws & Regulation Database of the Republic of China](https://law.moj.gov.tw/eng/) - Database of China's laws translated to English, maintained by Taiwan's Ministry of Justice 
 * [Personal Data Protection Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021) - The personal data protection act of the Republic of China, which is enacted to regulate the collection, processing and use of personal data as so to prevent harm on personality rights, and to facilitate the proper use of personal data.
 
-## European Union
+### European Union
 
 * [General Data Protection Regulation GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) - Legal text for the EU GDPR regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC
 * [GDPR.EU Guide](https://gdpr.eu/) - A project co-funded by the Horizon 2020 Framework programme of the EU which provides a resource for organisations and individuals researching GDPR, including a library of straightforward and up-to-date information to help organisations achieve GDPR compliance ([Legal Text](https://www.govinfo.gov/content/pkg/USCODE-2012-title5/pdf/USCODE-2012-title5-partI-chap5-subchapII-sec552a.pdf)).
 
 
-## Singapore
+### Singapore
 
 * [Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - The Personal Data Protection Act 2012 (the "Act") sets out the law on data protection in Singapore. Apart from establishing a general data protection regime, the Act also regulates telemarketing practices.
 * [Protection from Online Falsehoods and Manipulation Act 2019](https://sso.agc.gov.sg/Acts-Supp/18-2019/Published/20190625?DocDate=20190625) - An act to prevent the electronic communication in singapore of false statements of fact, to suppres support for and counteract the effects of such communication, to safeguard against the use of online accounts for such communication and for information manupulation, to enable measures to be taken to enhance transparency of online political advertisements and for related matters.
 
 
-## United States of America
+### United States of America
 
 * [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - Legal text for California's consumer privacy act
 * [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
@@ -131,7 +132,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
 
 
-## United Kingdom
+### United Kingdom
 
 * [UK Data Protection Act of 2018](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) - The DPA 2018 enacts the GDPR into UK Law, however in doing so has included various "derogations" as permitted by the GDPR, resulting in some key differenced (which although small are not of insignificance impact and may have a greater impact after Brexit).
 * [The Information Commisioner's Office guide to Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection/) - This guide is for data protection officers and others who have day-to-day responsibility for data protection. It is aimed at small and medium-sized organisations, but it may be useful for larger organisations too.
