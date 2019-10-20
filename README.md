@@ -12,7 +12,7 @@
 <h1>Awesome AI Guidelines</h1>
 </td>
 <td>
-<img src="images/bosstown.gif"> <br> (AKA Writing AI Responsibly) 
+<a href="https://youtu.be/dKjCWfuvYxQ?t=147"><img src="images/bosstown.gif"> <br> (AKA Writing AI Responsibly)</a>
 </td>
 </td>
 </table>
@@ -56,8 +56,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) - This is the code of ethics that has been put together in 1992 by the Association for Computer Machinery and updated in 2018. The Code is designed to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way. Additionally, the Code serves as a basis for remediation when violations occur. The Code includes principles formulated as statements of responsibility, based on the understanding that the public good is always the primary consideration.
 * [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - The Ethics Guidelines for Trustworthy Artificial Intelligence (AI) is a document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG). This independent expert group was set up by the European Commission in June 2018, as part of the AI strategy announced earlier that year.
 * [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/) - A Vision for Prioritizing Human Wellbeing with Artificial Intelligence and Autonomous Systems that encourages technologists to prioritize ethical considerations in the creation of autonomous and intelligent technologies.
-* [Oxford's Recommendations for AI Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Standards_-FHI-Technical-Report.pdf) - A set of recommendations from Oxford's Future of Humanity institute which focus on the infrastructure and attributes required for efficient design, development and research around the ongoing work building and implementing AI standards.
-* [PWC's Responsibel AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html) - PWC has put together a survey and a set of principles that abstract some of the key areas they've identified for responsible AI.
+* [Oxford's Recommendations for AI Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Standards_-FHI-Technical-Report.pdf) - A set of recommendations from Oxford's Future of Humanity institute which focus on the infrastructure and attributes required for efficient design, development, and research around the ongoing work building & implementing AI standards.
+* [PWC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html) - PWC has put together a survey and a set of principles that abstract some of the key areas they've identified for responsible AI.
 * [Singapore Data Protection Govt Commission's AI Governance Principles](https://www.pdpc.gov.sg/Resources/Model-AI-Gov) - The singapore government's Personal Data Protection Commission has put together a set of guiding principles towards data protection and human involvement in automated systems, and comes with a report that breaks down the [guiding principles and motivations](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Model-AI-Framework---First-Edition.pdf).
 * [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework for data ethics.
 
