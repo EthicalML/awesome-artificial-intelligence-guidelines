@@ -64,7 +64,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Singapore Data Protection Govt Commission's AI Governance Principles](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) - The Singapore government's Personal Data Protection Commission has put together a set of guiding principles towards data protection and human involvement in automated systems, and comes with a report that breaks down the [guiding principles and motivations](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Primer-for-2nd-edition-of-AI-Gov-Framework.pdf?la=en).
 * [Toronto Declaration](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/) Protecting the right to equality and non-discrimination in machine learning systems by accessnow. * [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework.
 * [Algorithm charter for Aotearoa New Zealand](https://data.govt.nz/use-data/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter) - The  Algorithm  Charter  for  Aotearoa  New  Zealand  is  an  evolving piece of work that needs to respond to emerging technologies  and  also  be  fit-for-purpose  for  government  agencies.  
-
+* [Montreal AI Ethics Institute State of AI Ethics June 2020 Report](https://montrealethics.ai/the-state-of-ai-ethics-report-june-2020/) - A resource put together by the [Montreal AI Ethics Institute](https://montrealethics.ai) that captures the most relevant research and reporting in the domain of AI ethics between March 2020 and June 2020.
+* [Montreal AI Ethics Institute State of AI Ethics October 2020 Report](https://montrealethics.ai/oct2020/) - A resource put together by the [Montreal AI Ethics Institute](https://montrealethics.ai) that captures the most relevant research and reporting in the domain of AI ethics between July 2020 and October 2020.
 
 ## Processes and Checklists
 
@@ -109,7 +110,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Import AI](https://jack-clark.net/) - A newsletter curated by OpenAI's Jack Clark which curates the most resent and relevant AI research, as well as relevant societal issues that intersect with technical AI research.
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
-
+* [Montreal AI Ethics Institute Weekly AI Ethics newsletter](https://aiethics.substack.com) - A weekly newsletter curated by [Abhishek Gupta](https://atg-abhishek.github.io) and his team at the [Montreal AI Ethics Institute](https://montrealethics.ai) that presents accessible summaries of technical and academic research papers along with commentary on the latest in the domain of AI ethics.
 
 ## Regulation and Policy
 
