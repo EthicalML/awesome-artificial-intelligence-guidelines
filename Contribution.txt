@@ -1,0 +1,10 @@
+The Foundation for Best Practices in Machine Learning: 
+https://www.fbpml.org/the-best-practices & https://wiki.fbpml.org/wiki/Main_Page
+
+
+The Foundation for Best Practices in Machine Learning helps data scientists, governance experts, and managers implement ethical and responsible machine learning through open-source organizational and technical best practices.
+
+We are a team of data scientists, machine learning engineers, AI ethicists and governance experts, who are enthusiastic about lowering the barriers for pragmatic ethical and responsible machine learning.
+
+
+Our Best Practices are designed to be easily accessible to Machine Learning practitioners from a wide variety of backgrounds. Our Best Practices can be adapted to different organisation sizes, needs, risks, resources, and expected societal impact and so the implementation can be flexible.
