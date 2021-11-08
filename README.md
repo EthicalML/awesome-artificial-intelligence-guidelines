@@ -107,7 +107,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## Online Courses and Learning Resources
 
 * [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
-* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness
+* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
 
 ## Research and Industry Newsletters
 
