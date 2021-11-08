@@ -62,10 +62,13 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Oxford's Recommendations for AI Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Standards_-FHI-Technical-Report.pdf) - A set of recommendations from Oxford's Future of Humanity institute which focus on the infrastructure and attributes required for efficient design, development, and research around the ongoing work building & implementing AI standards.
 * [PWC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html) - PWC has put together a survey and a set of principles that abstract some of the key areas they've identified for responsible AI.
 * [Singapore Data Protection Govt Commission's AI Governance Principles](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) - The Singapore government's Personal Data Protection Commission has put together a set of guiding principles towards data protection and human involvement in automated systems, and comes with a report that breaks down the [guiding principles and motivations](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/Primer-for-2nd-edition-of-AI-Gov-Framework.pdf?la=en).
-* [Toronto Declaration](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/) Protecting the right to equality and non-discrimination in machine learning systems by accessnow. * [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework.
+* [Toronto Declaration](https://www.accessnow.org/the-toronto-declaration-protecting-the-rights-to-equality-and-non-discrimination-in-machine-learning-systems/) Protecting the right to equality and non-discrimination in machine learning systems by accessnow. 
+* [UK Government's Data Ethics Framework Principles](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) - A resource put together by the Department for Digital, Culture, Media and Sport (DCMS) which outlines an overview of data ethics, together with a 7-principle framework.
 * [Algorithm charter for Aotearoa New Zealand](https://data.govt.nz/use-data/data-ethics/government-algorithm-transparency-and-accountability/algorithm-charter) - The  Algorithm  Charter  for  Aotearoa  New  Zealand  is  an  evolving piece of work that needs to respond to emerging technologies  and  also  be  fit-for-purpose  for  government  agencies.  
 * [Montreal AI Ethics Institute State of AI Ethics June 2020 Report](https://montrealethics.ai/the-state-of-ai-ethics-report-june-2020/) - A resource put together by the [Montreal AI Ethics Institute](https://montrealethics.ai) that captures the most relevant research and reporting in the domain of AI ethics between March 2020 and June 2020.
 * [Montreal AI Ethics Institute State of AI Ethics October 2020 Report](https://montrealethics.ai/oct2020/) - A resource put together by the [Montreal AI Ethics Institute](https://montrealethics.ai) that captures the most relevant research and reporting in the domain of AI ethics between July 2020 and October 2020.
+* [Technical and Organizational Best Practices](https://www.fbpml.org/the-best-practices/the-best-practices) - Technical and organizational guidelines for responsible machine learning put together by the [Foundation for Best Practices in Machine Learning (FBPML)](https://www.fbpml.org/). 
+* [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/research/publications/understanding-artificial-intelligence-ethics-and-safety) - A guide for the responsible design and implementation of AI systems in the public sector by the [Alan Turing Institute](https://www.turing.ac.uk/). 
 
 ## Processes and Checklists
 
@@ -92,7 +95,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) - This is IBM's toolkit that includes large number of examples, research papers and demos implementing several algorithms that provide insights on fairness in machine learning systems.
 * [Linux Foundation AI Landscape](https://landscape.lfai.foundation/) - The official list of tools in the AI landscape curated by the Linux Foundation, which contains well maintained and used tools and frameworks. 
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) from Avanade
-
+* [Fairlearn](https://fairlearn.org/) - A toolkit for assessing and improving fairness in AI from Microsoft 
 
 ## Industry standards initiatives
 
@@ -101,10 +104,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [IEEE Global Initiative for Ethical Considerations in Artificial Intelligence (AI) and Autonomous Systems (AS)](https://ethicsinaction.ieee.org/) - IEEE Approved Standards Projects specifically focused on the Ethically Aligned Design principles, and includes 14 (P700X) standards which cover topics from data collection to privacy, to algorithmic bias and beyond.
 * [ISO/IEC's Standards for Artificial Intelligence](https://www.iso.org/committee/6794475/x/catalogue/) - The ISO's initiative for Artificial Intelligence standards, which include a large set of subsequent standards ranging across Big Data, AI Terminology, Machine Learning frameworks, etc.
 
-
 ## Online Courses and Learning Resources
 
 * [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
+* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness
 
 ## Research and Industry Newsletters
 
