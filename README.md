@@ -110,8 +110,9 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## Online Courses and Learning Resources
 
 * [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
-* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
-* [Practical Data Ethics](https://ethics.fast.ai/) - Free course by fast.ai that covers disinformation, bias and fairness, foundations of ethics, privacy and surveillance, algorithmic colonialism
+* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan (via Coursera) that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
+* [Practical Data Ethics](https://ethics.fast.ai/) - Free course by Rachel Thomas from the University of San Francisco Data Institute (via fast.ai) that covers disinformation, bias and fairness, foundations of ethics, privacy and surveillance, algorithmic colonialism
+* [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai) - Free course by the University of Montreal and IVADO (via edX) about the discriminatory effects of algorithmic decision-making and responsible machine learning (institutional and technical strategies to identify and address bias). 
 
 ## Research and Industry Newsletters
 
@@ -160,7 +161,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
-* [DoD's Ethical Principles for AI](https://www.diu.mil/responsible-ai-guidelines) - The U.S.A. Department of Defense responsible AI guidelines for tech contractors.
+* [DoD's Ethical Principles for AI](https://www.diu.mil/responsible-ai-guidelines) - The U.S.A. Department of Defense responsible AI guidelines for tech contractors. The guidelines provide a step-by-step process to follow during the planning, development, and deployment phases of the technical lifecycle. 
 
 
 ### United Kingdom
