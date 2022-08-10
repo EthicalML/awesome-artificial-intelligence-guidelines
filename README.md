@@ -17,7 +17,7 @@
 </td>
 </table>
 
-## About this repo
+## Overview
 
 As AI systems become more prevalent in society, we face bigger and tougher societal challenges. Given many of these challenges have not been faced before, practitioners will face scenarios that will require dealing with hard ethical and societal questions.
 
