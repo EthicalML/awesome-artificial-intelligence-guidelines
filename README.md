@@ -84,6 +84,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [World Economic Forum's Guidelines for Procurement](https://www.weforum.org/press/2019/09/uk-government-first-to-pilot-ai-procurement-guidelines-co-designed-with-world-economic-forum/) - The WEF has put together a set of guidelines for governments to be able to safely and reliably procure machine learning related systems, which has been trialled with the UK government.
 * [Machine Learning Assurance](https://monitaur.ai/blog/machine-learning-assurance/) - Quick look at machine learning assurance: process of recording, understanding, verifying, and auditing machine learning models and their transactions.
 * [ODEP's Checklist for Employers: Facilitating the Hiring of People with Disabilities Through the Use of eRecruiting Screening Systems, Including AI](https://www.peatworks.org/wp-content/uploads/2020/10/EARN_PEAT_eRecruiting_Checklist.pdf) - The Employer Assistance and Resource Network on Disability Inclusion (EARN) and the Partnership on Employment & Accessible Technology (PEAT), which are both funded through the U.S. Department of Labor's Office of Disability Employment Policy (ODEP), collaborated on an inclusive AI checklist for employers. The checklist provides direction for leadership, human resources personnel, equal employment opportunity managers, and procurement officers for reviewing AI tools used in recruiting and candidate assessment for fairness and inclusion of individuals with disabilities.
+* [Microsoft AI Fairness Checklist](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)
 
 ## Interactive and Practical Tools
 
@@ -95,7 +96,9 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [IBM's AI Explainability 360 Open Source Toolkit](http://aix360.mybluemix.net/) - This is IBM's toolkit that includes large number of examples, research papers and demos implementing several algorithms that provide insights on fairness in machine learning systems.
 * [Linux Foundation AI Landscape](https://landscape.lfai.foundation/) - The official list of tools in the AI landscape curated by the Linux Foundation, which contains well maintained and used tools and frameworks. 
 * [Taking action on digital ethics](https://www.avanade.com/en-us/thinking/research-and-insights/trendlines/digital-ethics) from Avanade
-* [Fairlearn](https://fairlearn.org/) - A toolkit for assessing and improving fairness in AI from Microsoft 
+* [Microsoft Fairlearn](https://fairlearn.org/) - An open-source toolkit for assessing and improving fairness in machine learning products developed by Microsoft 
+* [Microsoft Interpret ML](https://interpret.ml/) - An open-source toolkit for improving explainability/interpretability developed by Microsoft
+* [Alibi](https://github.com/SeldonIO/alibi) - An open-source Python library for machine learning model inspection and interpretation. 
 
 ## Industry standards initiatives
 
@@ -107,7 +110,9 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## Online Courses and Learning Resources
 
 * [Udacity's Secure & Private AI Course](https://www.udacity.com/course/secure-and-private-ai--ud185) - Free course by Udacity which introduces three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. 
-* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
+* [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan (via Coursera) that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
+* [Practical Data Ethics](https://ethics.fast.ai/) - Free course by Rachel Thomas from the University of San Francisco Data Institute (via fast.ai) that covers disinformation, bias and fairness, foundations of ethics, privacy and surveillance, algorithmic colonialism
+* [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai) - Free course by the University of Montreal and IVADO (via edX) about the discriminatory effects of algorithmic decision-making and responsible machine learning (institutional and technical strategies to identify and address bias). 
 
 ## Research and Industry Newsletters
 
@@ -156,6 +161,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Executive Order on Maintaining American Leadership in AI](https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/) - Official mandate by the President of the US to 
 * [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974) - The privacy act of 1974 which establishes a code of fair information practices that governs the collection, maintenance, use and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 * [Privacy Protection Act of 1980](https://epic.org/privacy/ppa/) - The Privacy Protection Act of 1980 protects journalists from being required to turn over to law enforcement any work product and documentary materials, including sources, before it is disseminated to the public.
+* [DoD's Ethical Principles for AI](https://www.diu.mil/responsible-ai-guidelines) - The U.S.A. Department of Defense responsible AI guidelines for tech contractors. The guidelines provide a step-by-step process to follow during the planning, development, and deployment phases of the technical lifecycle. 
 
 
 ### United Kingdom
