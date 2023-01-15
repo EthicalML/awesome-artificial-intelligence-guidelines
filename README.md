@@ -113,6 +113,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Data science ethics](https://www.coursera.org/learn/data-science-ethics) - Free course by Prof. Jagadish from the University of Michigan (via Coursera) that covers data ownership, privacy and anonymity, data validity, and algorithmic fairness.
 * [Practical Data Ethics](https://ethics.fast.ai/) - Free course by Rachel Thomas from the University of San Francisco Data Institute (via fast.ai) that covers disinformation, bias and fairness, foundations of ethics, privacy and surveillance, algorithmic colonialism
 * [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai) - Free course by the University of Montreal and IVADO (via edX) about the discriminatory effects of algorithmic decision-making and responsible machine learning (institutional and technical strategies to identify and address bias). 
+* [Intro to AI ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) - Free course by Kaggle introducing the base concepts of ethics in AI and how to mitigate related problems.
 
 ## Research and Industry Newsletters
 
