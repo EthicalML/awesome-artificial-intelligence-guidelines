@@ -69,6 +69,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Montreal AI Ethics Institute State of AI Ethics October 2020 Report](https://montrealethics.ai/oct2020/) - A resource put together by the [Montreal AI Ethics Institute](https://montrealethics.ai) that captures the most relevant research and reporting in the domain of AI ethics between July 2020 and October 2020.
 * [Technical and Organizational Best Practices](https://www.fbpml.org/the-best-practices/the-best-practices) - A resource put together by [Foundation for Best Practices in Machine Learning (FBPML)](https://www.fbpml.org/) with technical guidelines (e.g. fairness and non-discrimination, monitoring and maintenance, data quality, product traceability, explainability) and organizational guidelines (e.g. data governance, product management, human resources management, compliance and auditing). Community contributions are welcome via the [FBPML Wiki](https://wiki.fbpml.org/wiki/Main_Page).
 * [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/research/publications/understanding-artificial-intelligence-ethics-and-safety) - A guide for the responsible design and implementation of AI systems in the public sector by David Leslie from the [Alan Turing Institute](https://www.turing.ac.uk/). 
+* [Declaration for responsible and intelligent data practice](https://www.declaration.org.uk/) - a shared vision of what best practice in data looks like by [Open Data Manchester](https://www.opendatamanchester.org.uk/).
 
 ## Processes and Checklists
 
