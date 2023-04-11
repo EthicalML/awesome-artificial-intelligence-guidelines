@@ -86,6 +86,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Machine Learning Assurance](https://monitaur.ai/blog/machine-learning-assurance/) - Quick look at machine learning assurance: process of recording, understanding, verifying, and auditing machine learning models and their transactions.
 * [ODEP's Checklist for Employers: Facilitating the Hiring of People with Disabilities Through the Use of eRecruiting Screening Systems, Including AI](https://www.peatworks.org/wp-content/uploads/2020/10/EARN_PEAT_eRecruiting_Checklist.pdf) - The Employer Assistance and Resource Network on Disability Inclusion (EARN) and the Partnership on Employment & Accessible Technology (PEAT), which are both funded through the U.S. Department of Labor's Office of Disability Employment Policy (ODEP), collaborated on an inclusive AI checklist for employers. The checklist provides direction for leadership, human resources personnel, equal employment opportunity managers, and procurement officers for reviewing AI tools used in recruiting and candidate assessment for fairness and inclusion of individuals with disabilities.
 * [Microsoft AI Fairness Checklist](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)
+* [US NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - The Framework is intended to help developers, users and evaluators of AI systems better manage AI risks which could affect individuals, organizations, society, or the environment.
 
 ## Interactive and Practical Tools
 
