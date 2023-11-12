@@ -156,6 +156,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 ### United States of America
 
+* [The White House Executive Order in AI](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) - The USA Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence 
 * [California Consumer Privacy Act (CCPA)](http://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) - Legal text for California's consumer privacy act
 * [EU-U.S. and Swiss-U.S. Privacy Shield Frameworks](https://www.privacyshield.gov/welcome) - The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce and the European Commission and Swiss Administration to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce.
 * [Fair Credit Reporting Act 2018](https://www.ftc.gov/enforcement/statutes/fair-credit-reporting-act) - The Fair Reporting Act is a federal law that regulates the collection of consumers' credit information and access to their credit reports.
