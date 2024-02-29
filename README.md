@@ -56,7 +56,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [An Evaluation of Guidelines - The Ethics of Ethics](https://arxiv.org/ftp/arxiv/papers/1903/1903.03425.pdf) - A research paper that analyses multiple Ethics principles
 * [Association for Computer Machinery's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) - This is the code of ethics that has been put together in 1992 by the Association for Computer Machinery and updated in 2018. The Code is designed to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way. Additionally, the Code serves as a basis for remediation when violations occur. The Code includes principles formulated as statements of responsibility, based on the understanding that the public good is always the primary consideration.
 * [From What to How: An initial review of publicly available AI Ethics Tools, Methods and Research to translate principles into practices](https://arxiv.org/abs/1905.06876) - A paper published by the UK Digital Catapult that aims to identify and present the gap between principles and their practical applications.
-* [European Commission's Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - The Ethics Guidelines for Trustworthy Artificial Intelligence (AI) is a document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG). This independent expert group was set up by the European Commission in June 2018, as part of the AI strategy announced earlier that year.
+* [European Commission's Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - The Ethics Guidelines for Trustworthy Artificial Intelligence (AI) is a document prepared by the High-Level Expert Group on Artificial Intelligence (AI HLEG). This independent expert group was set up by the European Commission in June 2018, as part of the AI strategy announced earlier that year.
 * [IEEE's Ethically Aligned Design](https://ethicsinaction.ieee.org/) - A Vision for Prioritizing Human Wellbeing with Artificial Intelligence and Autonomous Systems that encourages technologists to prioritize ethical considerations in the creation of autonomous and intelligent technologies.
 * [Montréal Declaration for a responsible development of artificial intelligence](https://www.montrealdeclaration-responsibleai.com/the-declaration) -  ethical principles and values that promote the fundamental interests of people and group created as an initiative by Université de Montréal 
 * [Oxford's Recommendations for AI Governance](https://www.fhi.ox.ac.uk/wp-content/uploads/Standards_-FHI-Technical-Report.pdf) - A set of recommendations from Oxford's Future of Humanity institute which focus on the infrastructure and attributes required for efficient design, development, and research around the ongoing work building & implementing AI standards.
@@ -125,6 +125,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Montreal AI Ethics Institute Weekly AI Ethics newsletter](https://aiethics.substack.com) - A weekly newsletter curated by [Abhishek Gupta](https://atg-abhishek.github.io) and his team at the [Montreal AI Ethics Institute](https://montrealethics.ai) that presents accessible summaries of technical and academic research papers along with commentary on the latest in the domain of AI ethics.
 
 ## Regulation and Policy
+
+### Austria
+
+* [Artificial Intelligence Mission Austria 2030](https://www.bmk.gv.at/themen/innovation/publikationen/ikt/ai/aimat.html) - Shaping the Future of Artificial Intelligence in Austria. The Austrian ministry for Innovation and Technology published their vision for AI until 2030.
 
 ### China
 
