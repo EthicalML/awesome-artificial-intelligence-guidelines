@@ -125,6 +125,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 * [Montreal AI Ethics Institute Weekly AI Ethics newsletter](https://aiethics.substack.com) - A weekly newsletter curated by [Abhishek Gupta](https://atg-abhishek.github.io) and his team at the [Montreal AI Ethics Institute](https://montrealethics.ai) that presents accessible summaries of technical and academic research papers along with commentary on the latest in the domain of AI ethics.
+* [AI Safety Newsletter](https://newsletter.safe.ai/) - A weekly newsletter from the Center for AI Safety providing updates on AI research, policy, and other areas for a non-technical audience.
+* [ML Safety Newsletter](https://newsletter.mlsafety.org/) - A newsletter from the Center for AI Safety providing occasional deep-dives on key results in technical AI research.
 
 ## Regulation and Policy
 
