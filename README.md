@@ -117,6 +117,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Practical Data Ethics](https://ethics.fast.ai/) - Free course by Rachel Thomas from the University of San Francisco Data Institute (via fast.ai) that covers disinformation, bias and fairness, foundations of ethics, privacy and surveillance, algorithmic colonialism
 * [Bias and Discrimination in AI](https://www.edx.org/course/bias-and-discrimination-in-ai) - Free course by the University of Montreal and IVADO (via edX) about the discriminatory effects of algorithmic decision-making and responsible machine learning (institutional and technical strategies to identify and address bias). 
 * [Intro to AI ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) - Free course by Kaggle introducing the base concepts of ethics in AI and how to mitigate related problems.
+* [Introduction to AI Safety, Ethics, and Society](https://www.aisafetybook.com/) - Developed by Dan Hendrycks, director of the [Center for AI Safety](https://www.safe.ai/), this free online textbook aims to provide an accessible introduction to students, practitioners and others looking to better understand issues pertaining to AI Safety and Ethics. Apart from online reading, this book is available as a PDF [here](https://www.aisafetybook.com/download) and also as a free virtual course [here](https://www.aisafetybook.com/virtual-course).
 
 ## Research and Industry Newsletters
 
@@ -124,6 +125,8 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 * [Matt's thoughts in between](https://www.getrevue.co/profile/mattclifford) - Newsletter curated by Entrepreneur First CEO Matt Clifford that provides a curated critical analysis on topics surrounding geopolitics, deep tech startups, economics and beyond.
 * [The Machine Learning Engineer](https://ethical.institute/mle.html) - A newsletter curated by The Institute for Ethical AI & Machine Learning that contains curated articles, tutorials and blog posts from experienced Machine Learning professionals and includes insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 * [Montreal AI Ethics Institute Weekly AI Ethics newsletter](https://aiethics.substack.com) - A weekly newsletter curated by [Abhishek Gupta](https://atg-abhishek.github.io) and his team at the [Montreal AI Ethics Institute](https://montrealethics.ai) that presents accessible summaries of technical and academic research papers along with commentary on the latest in the domain of AI ethics.
+* [AI Safety Newsletter](https://newsletter.safe.ai/) - A weekly newsletter from the Center for AI Safety providing updates on AI research, policy, and other areas for a non-technical audience.
+* [ML Safety Newsletter](https://newsletter.mlsafety.org/) - A newsletter from the Center for AI Safety providing occasional deep-dives on key results in technical AI research.
 
 ## Regulation and Policy
 
