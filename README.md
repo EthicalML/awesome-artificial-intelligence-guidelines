@@ -134,6 +134,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 * [Artificial Intelligence Mission Austria 2030](https://www.bmk.gv.at/themen/innovation/publikationen/ikt/ai/aimat.html) - Shaping the Future of Artificial Intelligence in Austria. The Austrian ministry for Innovation and Technology published their vision for AI until 2030.
 
+### Canada
+
+* [Artificial Intelligence and Data Act (AIDA)](https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master?tab=readme-ov-file#european-union) - An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts
+
 ### China
 
 * [Beijing AI Principles](https://www.baai.ac.cn/blog/beijing-ai-principles) - initiative for the research, development, use, governance and long-term planning of AI, calling for its healthy development to support the construction of a human community with a shared future, and the realization of beneficial AI for humankind and nature.
