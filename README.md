@@ -31,7 +31,7 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 
 | | | |
 |-|-|-|
-|[Austria 🇦🇹](#austria)|[Canada 🇨🇦](#canada)|[China 🇨🇳](#china)|
+|[Austria 🇦🇹](#austria)|[Brasil 🇧🇷](#brasil)|[Canada 🇨🇦](#canada)|[China 🇨🇳](#china)|
 |[Israel 🇮🇱](#israel)|[European Union 🇪🇺](#european-union)|[India 🇮🇳](#india)|
 |[Mexico 🇲🇽](#mexico)|[Singapore 🇸🇬](#singapore)|[United Arab Emirates 🇦🇪](#united-arab-emirates)|
 |[United States of America 🇺🇸](#united-states-of-america)|[United Kingdom 🇬🇧](#united-kingdom)||
@@ -66,6 +66,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 ## Canada
 
 * [Artificial Intelligence and Data Act (AIDA)](https://github.com/EthicalML/awesome-artificial-intelligence-regulation/tree/master?tab=readme-ov-file#european-union) - An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts
+
+## Brasil
+
+* [Brazilian AI Regulation (PL 2338/2023)](https://www25.senado.leg.br/web/atividade/materias/-/materia/157233): A proposed bill in Brazil aiming to establish a comprehensive framework for the development and use of artificial intelligence, emphasizing transparency, accountability, and alignment with international standards.
 
 ## China
 
